@@ -92,3 +92,4 @@ Bom, pessoal, por hoje é isso! Espero que vocês tenham curtido esse mergulho r
 
 ### Link para o podcast
 
+[https://github.com/andarold/prompts-for-podcast-generate-by-AI/blob/main/podcast_editado.mp3]
