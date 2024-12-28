@@ -1,5 +1,6 @@
 # prompts-for-podcast-generate-by-AI
 
+![Capa do podcast](capa%20podcast.jpg)
 # Projeto Podcast gerado por IAs: "A.I.: O Sonho das Máquinas - Como a inteligência artificial está transformando nosso mundo"
 
 Projeto desenvolvido através da DIO, no bootcamp de IAs Generativas, utilizando ferramentas de IAs e prompts assertivos.
